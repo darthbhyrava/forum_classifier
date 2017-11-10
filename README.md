@@ -34,7 +34,7 @@ SVM: 38%
 
 
 ### Team Members
- - Siddharth Gairola | [@sidgairola19](https://github.com/sidgairo18)
- - Harshit Patni | [@patniharshit](https://github.com/patniharshit)
- - Yojana Birje | [@yojana_birje](https://www.hackerrank.com/yojana_birje?hr_r=1)
- - Sriharsh Bhyravajjula | [@darthbhyrava](https://github.com/darthbhyrava)
+ - Siddharth Gairola ([@sidgairola19](https://github.com/sidgairo18))
+ - Harshit Patni ([@patniharshit)](https://github.com/patniharshit))
+ - Yojana Birje ([@yojana_birje](https://www.hackerrank.com/yojana_birje?hr_r=1))
+ - Sriharsh Bhyravajjula ([@darthbhyrava](https://github.com/darthbhyrava))
