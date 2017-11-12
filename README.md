@@ -31,6 +31,7 @@ Now we have used 3 models​:
 	embeddings to train an SVM with the labels for each class from 1-7. This resulted in an accuracy of 38%.
 2. **Bi-directional LSTM on word2vec embeddings of title words.**
 	After the pre-processing step here we trained a  bi-directional LSTM model as shown in the figure below:
+	![Architecture](./data/image.png?raw=true)
 	The model consists of an Bidirectional LSTM layer (2 RNN layers) the output of which is fed into an
 	Attention layer which is then forwarded to a Dense layer. Then finally we have a 7x1 output layer which
 	gives us the respective probabilities of the forum message belonging to one of the 7  classes.
@@ -70,9 +71,12 @@ We have used the ICHI 2016 dataset as described [here](http://www.ieee-ichi.org/
 It is a training dataset consisting of 8,000 questions (each with a post title and message text), and labeled with one of the seven categories described above, along with a test dataset of 3,000 questions that are unlabeled. 
 
 ### Results
-CNN+LSTM: 56%
-RNN: 49.8%
-SVM: 38%
+
+| Model        | Testing accuracy | Testing accuracy  |
+| ------------- |:-------------:| -----:|
+| SVM on Doc2Vec embeddings of title+question | - | 38% |
+| Bi-directional LSTM on word2vec embeddings of title words | 77% |   48.6% |
+| Bi-directional LSTM on word2vec embeddings of title words | 60% | 56% |
 
 
 ### Team Members
