@@ -82,5 +82,5 @@ It is a training dataset consisting of 8,000 questions (each with a post title a
 ### Team Members
  - Siddharth Gairola ([@sidgairola19](https://github.com/sidgairo18))
  - Harshit Patni ([@patniharshit)](https://github.com/patniharshit))
- - Yojana Birje ([@yojana_birje](https://www.hackerrank.com/yojana_birje?hr_r=1))
+ - Yojana Birje ([@YojanaBirje](https://github.com/YojanaBirje))
  - Sriharsh Bhyravajjula ([@darthbhyrava](https://github.com/darthbhyrava))
